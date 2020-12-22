@@ -1,3 +1,3 @@
 # example-1
 
-Test commit!! Let's go.
+Test commit!! Let's go!
